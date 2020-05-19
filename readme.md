@@ -2,7 +2,7 @@
 
 # EAS Big DATA
 
-- [Tugas 7 Big DATA](#tugas-7-big-data)
+- [EAS Big DATA](#eas-big-data)
 - [Daily Minimum Temperature](#daily-minimum-temperature)
   - [Business Understanding](#business-understanding)
   - [Data Understanding](#data-understanding)
