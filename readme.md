@@ -1,6 +1,6 @@
 ## Bigdata 2020
 
-# Tugas 7 Big DATA
+# EAS Big DATA
 
 - [Tugas 7 Big DATA](#tugas-7-big-data)
 - [Daily Minimum Temperature](#daily-minimum-temperature)
@@ -92,14 +92,14 @@ FROM #table#
 
 ## Modeling
 - Pertama, pada component PCA atur node Spark Normalizer dan Spark PCA seperti gambar di bawah</br>
-![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/7.jpg "MPertama")<br/>
+![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/7.jpg "MPertama")<br/>
 - Kedua, jalankan seluruhnya</br>
-![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/8.jpg "MKedua")<br/>
+![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/8.jpg "MKedua")<br/>
 
 
 ## Deployment
 - Berikut adalah hasil clustering data</br>
-![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/9.jpg "DPertama")<br/>
+![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/9.jpg "DPertama")<br/>
 
 
 # Electricity Production
@@ -178,11 +178,11 @@ FROM #table#
 
 ## Modeling
 - Pertama, pada component PCA atur node Spark Normalizer dan Spark PCA seperti gambar di bawah</br>
-![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/7.jpg "MPertama")<br/>
+![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/7.jpg "MPertama")<br/>
 - Kedua, jalankan seluruhnya</br>
-![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/8.jpg "MKedua")<br/>
+![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/8.jpg "MKedua")<br/>
 
 
 ## Deployment
 - Berikut adalah hasil clustering data</br>
-![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/10.jpg "DPertama")<br/>
+![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/10.jpg "DPertama")<br/>
