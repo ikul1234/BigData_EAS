@@ -70,7 +70,7 @@ END as dayClassifier
 from #table#
 ```
 - Ketujuh, hapus node di dalam component Aggregation yang ditandai pada gambar di bawah dan sambungkan kembali joiner yang putus</br>
-![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/4.jpg"DPKetujuh")<br/>
+![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/4.jpg "DPKetujuh")<br/>
 - Kedelapan, ubah query pada Spark SQL Query di sebelah componen Aggregation seperti di bawah</br>
 ```
 SELECT `meterID`, `totalKW`, `avgYearlyKW`,`avgMonthlyKW`,`avgWeeklyKW`,
@@ -87,19 +87,19 @@ SELECT `meterID`, `totalKW`, `avgYearlyKW`,`avgMonthlyKW`,`avgWeeklyKW`,
 FROM #table#
 ```
 - Kesembilan, tambahkan node Spark Missing Value dan atur nodenya seperti gambar di bawah</br>
-![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/5.jpg"DPKesembilan")<br/>
-![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/6.jpg"DPKesembilan")<br/>
+![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/5.jpg "DPKesembilan")<br/>
+![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/6.jpg "DPKesembilan")<br/>
 
 ## Modeling
 - Pertama, pada component PCA atur node Spark Normalizer dan Spark PCA seperti gambar di bawah</br>
-![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/7.jpg"MPertama")<br/>
+![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/7.jpg "MPertama")<br/>
 - Kedua, jalankan seluruhnya</br>
-![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/8.jpg"MKedua")<br/>
+![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/8.jpg "MKedua")<br/>
 
 
 ## Deployment
 - Berikut adalah hasil clustering data</br>
-![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/9.jpg"DPertama")<br/>
+![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/9.jpg "DPertama")<br/>
 
 
 # Electricity Production
@@ -156,7 +156,7 @@ END as dayClassifier
 from #table#
 ```
 - Ketujuh, hapus node di dalam component Aggregation yang ditandai pada gambar di bawah dan sambungkan kembali joiner yang putus</br>
-![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/4.jpg"DPKetujuh")<br/>
+![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/4.jpg "DPKetujuh")<br/>
 - Kedelapan, ubah query pada Spark SQL Query di sebelah componen Aggregation seperti di bawah</br>
 ```
 SELECT `meterID`, `totalKW`, `avgYearlyKW`,`avgMonthlyKW`,`avgWeeklyKW`,
@@ -173,16 +173,16 @@ SELECT `meterID`, `totalKW`, `avgYearlyKW`,`avgMonthlyKW`,`avgWeeklyKW`,
 FROM #table#
 ```
 - Kesembilan, tambahkan node Spark Missing Value dan atur nodenya seperti gambar di bawah</br>
-![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/5.jpg"DPKesembilan")<br/>
-![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/6.jpg"DPKesembilan")<br/>
+![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/5.jpg "DPKesembilan")<br/>
+![alt text](https://github.com/ikul1234/BigData_EAS/blob/master/Screenshot/6.jpg "DPKesembilan")<br/>
 
 ## Modeling
 - Pertama, pada component PCA atur node Spark Normalizer dan Spark PCA seperti gambar di bawah</br>
-![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/7.jpg"MPertama")<br/>
+![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/7.jpg "MPertama")<br/>
 - Kedua, jalankan seluruhnya</br>
-![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/8.jpg"MKedua")<br/>
+![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/8.jpg "MKedua")<br/>
 
 
 ## Deployment
 - Berikut adalah hasil clustering data</br>
-![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/10.jpg"DPertama")<br/>
+![alt text](https://github.com/ikul1234/BigData_Tugas5/blob/master/Screenshot/10.jpg "DPertama")<br/>
